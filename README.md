@@ -1,6 +1,6 @@
 # TabListPerWorld
 This tiny Plugin modifies the Tab-List to show only those Players in the list, who are in the same World like you.  
-So a Player in World "FreeBuild" won't see any other Player except the Players in this particular World.
+[![Build Status](https://drone.io/github.com/MarvinMenzerath/TabListPerWorld/status.png)](https://drone.io/github.com/MarvinMenzerath/TabListPerWorld/latest)
 
 ## Install
 Grab a current Release from [here](https://github.com/MarvinMenzerath/TabListPerWorld/releases) and copy it into your Plugins-Directory. That's it.
